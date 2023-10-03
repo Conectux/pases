@@ -1,0 +1,34 @@
+@media (max-width: 400px) {
+	.logo {
+		max-width: 180px !important;
+	}
+}
+
+@media (min-width: 400px) {
+	.logo {
+		max-width: 250px !important;
+	}
+}
+
+body {
+	background-color: #fff !important;
+}
+
+.btn {
+	background-color: #2b2b2b;
+	color: #ffffff;
+}
+
+.btn:hover {
+	background-color: #9b0000;
+	color: white;
+}
+
+.text-description {
+	font-size: 14px;
+}
+
+.footer-title {
+	color: black !important;
+	font-size: 13px;
+}
